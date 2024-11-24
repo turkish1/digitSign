@@ -3,4 +3,5 @@ private_key.pem
 public_key.pem
 signature.bin
 signature.signature
-troubleshootingGuide.t 
+troubleshootingGuide.t
+master
